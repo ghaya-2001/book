@@ -127,14 +127,13 @@ const Hero = () => {
  
       <Container>
         <Left>
-          <Title>We think outside the world</Title>
+          <Title> Develop your hard and soft skills with studenty</Title>
           <WhatWeDo>
             <Line src="./img/line.png" />
             <Subtitle>What we Do</Subtitle>
           </WhatWeDo>
           <Desc>
-            we enjoy creating delightful, human-centered digital experiences.
-          </Desc>
+          Studenty offre you a huge national network with all universities that can help you to develop your skills and gain new knowledge          </Desc>
           <Button>Don't forget to join </Button>
         </Left>
         <Right>
